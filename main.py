@@ -4,8 +4,8 @@ import schedule
 from discord import send_embedded_message
 
 # Notion API token and database ID
-TOKEN = "secret_7hVEU1uFZ244aFvCyLwD6Lq8NY9h9uR60hZfLp4A4VG"
-DATABASE_ID = "2559d2bdb2a14ce78d969071d9fcdd9d"
+TOKEN = ""
+DATABASE_ID = ""
 
 # Headers for API requests
 HEADERS = {
